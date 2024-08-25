@@ -14,6 +14,8 @@
       <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
 </div>
 
+![snake gif](https://github.com/felirom123/felirom123/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 
