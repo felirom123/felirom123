@@ -3,6 +3,7 @@
 - 🔭 Buscando uma oportunidade de aprendizado em back-end
 - 🌱 Analise e desenvolvimento de sistemas
 - 🤔 Me desenvolver ao maximo como Dev back-end
+- 🥋 Habilidades: Resiliência, Trabalho em Equipe, Comunicação, Liderança, Proativo, Focado.
 <div>
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=felirom123&show_icons=true&theme=radical">
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felirom123&layout=compact&langs_count=16&theme=radical"/>
