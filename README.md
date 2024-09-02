@@ -16,7 +16,7 @@
 
   
 
-![snake gif](https://github.com/felirom123/felirom123/blob/output/github-user-contribution.svg)
+![snake gif](https://github.com/felirom123/felirom123/blob/output/github-user-contribution(2).svg)
 
 ##
 
