@@ -16,8 +16,6 @@
 
   
 
-![snake gif](https://github.com/felirom123/felirom123/blob/output/snak.svg)
-
 ##
 
 
