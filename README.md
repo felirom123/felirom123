@@ -12,7 +12,12 @@
 <div>
       <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
       <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-      <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          </div>
+      <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />    
+      <img align="center" alt="" heigth="30cm" width="40cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+      
+          
+          
+</div>
 
   
 
